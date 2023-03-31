@@ -1,12 +1,12 @@
 # ctruh-assignment
 
--Steps to run project
+Steps to run project
 
 `npm i`
 
 `npm run dev`
 
--I have completed following things:-
+## I have completed following things:-
 
 1.Implemented React webpage and color picker using react-color-pkg
 2.A 2D element overlayed on the canvas which is a 2 digit number that can be dynamically changed by clicking button.
